@@ -1,7 +1,7 @@
 <img src="https://tiffen.com/wp-content/uploads/2016/03/Graduated-ND-Yosemite.jpg" align="right" height="190" width="220"/>
 
 ## filterizeR
-This is a comprehensive meme generation package based in Python.
+This is a comprehensive meme generation package based in R.
 
 **Date:** 2019-02-05
 
